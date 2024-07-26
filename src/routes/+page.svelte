@@ -1,0 +1,1 @@
+<h5>Try clicking below to copy, and running in the terminal <pre on:click={() => {navigator.clipboard.writeText('curl --upload-file package.json http://localhost:5173/package.json')}}>curl --upload-file package.json http://localhost:5173/package.json</pre></h5>
